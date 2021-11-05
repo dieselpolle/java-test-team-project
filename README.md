@@ -1,1 +1,1 @@
-# java-testi-project
+# Project for testing Java Spring Boot code
